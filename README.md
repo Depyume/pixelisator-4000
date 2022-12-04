@@ -10,10 +10,18 @@
 
 3.installe les libs : 
 numpy, cv2, matplotlib, sklearn avec les commandes suivant 
-pip install numpy
-pip install opencv-python
-pip install matplotlib
-pip install scikit-learn
+
+
+pip install numpy,
+
+
+pip install opencv-python,
+
+
+pip install matplotlib,
+
+
+pip install scikit-learn,
 
 
 4. mets ton fichier ligne 5
